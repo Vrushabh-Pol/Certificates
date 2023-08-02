@@ -2,7 +2,7 @@
 
 ## 1 . Data Science From ExcelR
 
-<img width="594" alt="Screenshot 2023-08-02 at 8 32 43 PM" src="https://github.com/Vrushabh-Pol/Certificates/assets/126774806/10ce2764-c7d7-4163-adfe-11396c844912">
+<p align="center"><img width="594" alt="Screenshot 2023-08-02 at 8 32 43 PM" src="https://github.com/Vrushabh-Pol/Certificates/assets/126774806/10ce2764-c7d7-4163-adfe-11396c844912"></p>
 
 ## 2 . Masters Program in Data Science certificate! From NASSCOM.
 
